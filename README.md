@@ -1,1 +1,1 @@
-public/msedge_HOtftCULAX.gif
+![page](public/msedge_HOtftCULAX.gif)
